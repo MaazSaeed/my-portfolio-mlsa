@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/wormhole.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Bubble-Sort Visualiser",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A fun program to visualise the Bubble-sort Algorithm.",
+    url: "https://www.khanacademy.org/computer-programming/bubble-sort-visualizer/5441923765813248",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Pong",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A fun pong game I created with my audience in a session on intro to animation.",
+    url: "https://www.khanacademy.org/computer-programming/pong/6349928166637568",
   },
   {
-    title: "My Resume Site",
+    title: "My fun hobby projects",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created with JavaScript and the processing library.",
+    url: "https://www.khanacademy.org/profile/kaid_905170860202500042691584/projects",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My GitHub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Repositories for my past and ongoing projects.",
+    url: "https://github.com/MaazSaeed",
   },
 ];
 
